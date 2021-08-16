@@ -13,6 +13,7 @@ turtle.pendown()
 a = 0
 b = 0
 
+
 while True:
     turtle.forward(a)
     turtle.right(b)
